@@ -1,0 +1,7 @@
+imutils
+numpy
+pickle5
+opencv-python
+tensorflow==2.5.2
+
+
